@@ -13,7 +13,7 @@
 I am a passionate self-taught programmer from India.
 - 🌱 I’m currently learning EJS
 - 💬 Ask me about anything [here](discord://discordapp.com/users/146460913556389888/)
-- 📫 Add Me On Discord? ! Lebyy_Dev#0899
+- 📫 Add Me On Discord? Lebyy_Dev#0899
 
 **Languages and Tools:** &nbsp;
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
