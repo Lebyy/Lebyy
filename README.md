@@ -1,5 +1,5 @@
 ### Hi there, I'm Lebyy! 👋
-<a href="discord://discordapp.com/users/146460913556389888/">
+<a href="https://discordapp.com/users/146460913556389888/">
   <img align="left" alt="My Discord" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
  <a href="https://github.com/Lebyy">
