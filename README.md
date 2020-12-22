@@ -25,7 +25,8 @@ I am a passionate self-taught programmer from India.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lebyy&show_icons=true&theme=radical&line_height=21&count_private=true" alt="Lebyy's github stats"/>
 </p>
 <br>
-<iframe src="https://frame.disframe.xyz/?id=146460913556389888" width="500" height="335" style="border-radius: 20px"/>
+<iframe src="https://frame.disframe.xyz/?id=146460913556389888" width="500" height="335" style="border-radius: 20px">
+</iframe>
 <br>
 *PS: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most public code on github*
 
