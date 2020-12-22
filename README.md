@@ -14,6 +14,7 @@ I am a passionate self-taught programmer from India.
 - 🌱 I’m currently learning EJS
 - 💬 Ask me about anything [here](discord://discordapp.com/users/146460913556389888/)
 - 📫 Add Me On Discord? Lebyy_Dev#0899
+<iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe>
 
 **Languages and Tools:** &nbsp;
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -26,7 +27,7 @@ I am a passionate self-taught programmer from India.
 </p>
 <br>
 <code><iframe src="https://frame.disframe.xyz/?id=146460913556389888" width="500" height="335" style="border-radius: 20px"/></code>
-<iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe>
+
 <br>
 *PS: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most public code on github*
 
