@@ -21,11 +21,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/lebyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="lebyy" height="30" width="40" /></a>
+<a href="https://codepen.io/lebyy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="lebyy" height="30" width="40" /></a>
 <a href="https://dev.to/lebyy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="lebyy" height="30" width="40" /></a>
-<a href="https://twitter.com/lebyy_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="lebyy_dev" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15800157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="15800157" height="30" width="40" /></a>
-<a href="https://discord.gg/pndumb6J3t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="https://discord.gg/pndumb6J3t" height="30" width="40" /></a>
+<a href="https://twitter.com/lebyy_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="lebyy_dev" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15800157" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="15800157" height="30" width="40" /></a>
+<a href="https://discord.gg/pndumb6J3t" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" alt="https://discord.gg/pndumb6J3t" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
