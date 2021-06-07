@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://blog.lebyy.me](https://blog.lebyy.me)
 
-- 📫 How to reach me **lebon1377@gmail.com**
+- 📫 How to reach me **lebyy@lebyy.me**
 
 - ⚡ Fun fact **“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler**
 
