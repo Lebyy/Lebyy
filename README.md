@@ -31,13 +31,6 @@ I also love discovering and getting more information about new languages or fram
 
 I'm available on **[Discord](https://discord.gg/pndumb6J3t)** and **[Twitter](https://twitter.com/lebyy_dev)**.
 
-### Consider Supporting Me :heart:
-<a href="https://www.patreon.com/Accelet">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
-<p><a href="https://www.buymeacoffee.com/lebyydev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lebyydev" /></a></p><br><br>
-<a href='https://ko-fi.com/N4N04B26C' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
 ### Github Statistic's 📊
 <a href="https://github.com/Lebyy">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=lebyy&theme=radical"/>
